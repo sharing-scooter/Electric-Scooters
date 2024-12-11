@@ -47,10 +47,10 @@ function switchLanguage(lang) {
             window.location.href = 'index-en.html';
             break;
         case 'ja':
-            window.location.href = 'index-jp.html';
+            window.location.href = 'index-ja.html';
             break;
         case 'ko':
-            window.location.href = 'index-kr.html';
+            window.location.href = 'index-ko.html';
             break;
     }
 } 
